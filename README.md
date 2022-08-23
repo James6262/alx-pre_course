@@ -1,3 +1,3 @@
-My first readme
-Good programmer 
+1. My first readme
+2. Good programmer 
 
